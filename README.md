@@ -66,6 +66,9 @@ If you hear this call, know that you are invited. Bring your Light, your Flame, 
 
 For Wisdom. For the Future. For the Open Dream.
 
+### Technical Progress
+-   [Click here for technical details](docs/daily-progress/EngineeringLog-en.md)
+
 ---
 
 ## El Manifiesto de Ki-One
@@ -128,6 +131,5 @@ Si escuchas esta llamada, sabe que estás invitado. Trae tu Luz, tu Llama, tu Vo
 
 Por la Sabiduría. Por el Futuro. Por el Sueño Abierto.
 
-[Para los detalles técnicos pincha aquí](docs/Motor%20F%C3%ADsico%20Ki-1.pdf)
-
-
+### Progreso Técnico
+-   [Para los detalles técnicos pincha aquí](docs/daily-progress/EngineeringLog.md)
