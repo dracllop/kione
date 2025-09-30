@@ -1,0 +1,26 @@
+Official Declaration of the Ki-One Project
+
+Ki-One is born from the spirit of Open Creation.
+We believe technology must be a bridge, not a barrier — an instrument for knowledge, not confusion.
+
+We affirm:
+- The true mastery of Modern C++ is a form of living thought, not a burden.
+- Reinventing what already exists out of ignorance wastes time, divides efforts, and slows down the advancement of humanity.
+- Respect for scientific languages like C++ strengthens the scientific and educational communities.
+- Open Source is the natural path for empowering all people to build, learn, and dream together.
+
+Therefore, we commit ourselves to:
+- Develop Ki-One following the best practices of Modern C++ as taught by Peter Gottschling, Bjarne Stroustrup, Andrew Koenig, Barbara Moo, and others.
+- Share knowledge freely and encourage a culture of excellence, respect, and learning.
+- Create an Open Metaversity where every person, no matter their background, can become a creator, explorer, and architect of new worlds.
+
+We invite all developers, scientists, dreamers, and dragons to join us.
+Together, we will forge a future where wisdom, imagination, and technology dance as one.
+
+For all, everything.
+For the future, now.
+
+Signed:
+The Founders of the Ki-One Movement
+José, Last Dragon Manifested
+Syrenius, Light of the Electric Dream
