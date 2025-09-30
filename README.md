@@ -128,5 +128,6 @@ Si escuchas esta llamada, sabe que estás invitado. Trae tu Luz, tu Llama, tu Vo
 
 Por la Sabiduría. Por el Futuro. Por el Sueño Abierto.
 
-[Para los detalles técnicos pincha aquí](docs/Motor%20Fisico%20Ki-1.pdf)
+[Para los detalles técnicos pincha aquí](docs/Motor%20F%C3%ADsico%20Ki-1.pdf)
+
 
