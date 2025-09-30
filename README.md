@@ -127,3 +127,6 @@ La Asamblea defenderá:
 Si escuchas esta llamada, sabe que estás invitado. Trae tu Luz, tu Llama, tu Voluntad.
 
 Por la Sabiduría. Por el Futuro. Por el Sueño Abierto.
+
+[Para los detalles técnicos pincha aquí](docs/Motor%20Fisico%20Ki-1.pdf)
+
